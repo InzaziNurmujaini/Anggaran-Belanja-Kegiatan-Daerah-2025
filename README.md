@@ -27,8 +27,8 @@ Analisis dilakukan dengan:
 ## Visualisasi Hasil
 ### 1. Distribusi Penghematan Anggaran (Monte Carlo)
 <img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/4b80cd6f-e569-4a0f-82f7-5267e81d64d8" />
-Grafik ini menunjukkan sebaran nilai **penghematan anggaran** dari seluruh simulasi.
-Garis vertikal putus-putus menandai **target efisiensi**.
+Grafik ini menunjukkan sebaran nilai penghematan anggaran dari seluruh simulasi.
+Garis vertikal putus-putus menandai target efisiensi.
 Interpretasi:
 * Distribusi relatif simetris dan stabil
 * Mayoritas simulasi menghasilkan penghematan **di atas target**
@@ -56,6 +56,7 @@ Interpretasi:
 | Best Case                     | 33,140,905  |
 | Worst Case                    | 17,254,694  |
 | Probabilitas Capai Target (%) | **97%**     |
+
 **Interpretasi:**
 * Rata-rata efisiensi mencapai ± **15% dari total anggaran**
 * Probabilitas mencapai target efisiensi sangat tinggi (**97%**)

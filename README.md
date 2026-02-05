@@ -37,6 +37,7 @@ Interpretasi:
 
 
 ### 2. Distribusi Total Anggaran Setelah Efisiensi
+<img width="1014" height="547" alt="image" src="https://github.com/user-attachments/assets/4dbe4a7e-b718-4fff-89ce-8986fe6f6d9f" />
 Grafik ini memperlihatkan total anggaran akhir setelah efisiensi.
 Interpretasi:
 * Seluruh hasil simulasi berada **di antara pagu minimum dan maksimum**
